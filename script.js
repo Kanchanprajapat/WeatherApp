@@ -1,3 +1,4 @@
+//javascript code
 const API_KEY = "3a07721791968fe750acb6fa68c84b52";
 
 const fetchDataBtn = document.getElementById("fetch-data-btn");
